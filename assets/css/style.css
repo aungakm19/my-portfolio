@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 20px;
 }
 
-@media (max-width: 1345px) {
+@media (max-width: 900px) {
   .mobile-nav-toggle {
     display: block;
   }
